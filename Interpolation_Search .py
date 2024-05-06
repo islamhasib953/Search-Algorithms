@@ -17,3 +17,4 @@ print(interpolationsearch(arr,  7))
 
 
 # mid = start + (x - arr[start]) * (end - start) // (arr[end] - arr[start])
+# complexity time of jump search in worst case is O(n) and best case is O(log log n)
